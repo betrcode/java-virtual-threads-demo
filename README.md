@@ -18,8 +18,8 @@ Java 19 needs to be installed.
 
 ## Arguments
 
-Arg 1: on/off - determines if virtual threads is on or off
-Arg 2: integer - number of executions to run
+1. Arg 1: on/off - determines if virtual threads is on or off
+2. Arg 2: integer - number of executions to run
 
 ## How to run with Maven
 
